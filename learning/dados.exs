@@ -18,4 +18,3 @@ IO.puts(("Idade, #{age}!"))
 {a, b} = {1, 2}
 
 IO.puts(a)
-

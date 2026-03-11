@@ -3,6 +3,7 @@ defmodule Calculadora do
   def soma(a, b) do
     a + b #Em elixir, o retoro da função é a última expressão, não há return
   end
+  
 
   def sub(a,b) do
     a - b
